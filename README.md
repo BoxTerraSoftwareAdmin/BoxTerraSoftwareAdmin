@@ -8,7 +8,7 @@ I've been learning coding and thing's related with Tech since I was 9 years old.
 
 *   🌍  I'm based in Spain
 *   ✉️  You can contact me at [boxterrasoftware@gmail.com](mailto:boxterrasoftware@gmail.com)
-*   🚀  I'm currently working on [BoxTerraSoftware](http://https://github.com/BoxTerraSoftware)
+*   🚀  I'm currently working on [BoxTerraSoftware](https://https://github.com/BoxTerraSoftware)
 *   🧠  I'm learning HTML, CSS, JS, ANGULAR, PHP, PYTHON... And many more...
 *   ⚡  Hey... you know that you can join to @BoxTerraSoftware by simply following us to be able to know when we are hiring?
 
